@@ -26,6 +26,6 @@ The dataset was found on <a href=https://www.kaggle.com/datasnaek/youtube-new> K
 ![](media/piechart.png)
 
 ### Barchart race of top videos by view count over the period
-Embedded videos are not supported, video hosted on <a href=https://streamable.com/58nl42> streamable </a>
+Embedded videos are not supported, here is a link to the video on <a href=https://streamable.com/58nl42> streamable </a>.
 The barchart of the top videos from the final day in the dataset:
 ![](media/last_day.png)
