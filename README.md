@@ -12,7 +12,8 @@ Trending aims to surface videos that:
 * Capture the breadth of what’s happening on YouTube and in the world
 * Showcase a diversity of creators
 * Ideally, are surprising or novel
-<&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - From the YouTube Support Page
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - From the YouTube Support Page
 
 
 ## Data 
